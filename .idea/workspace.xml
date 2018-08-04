@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5b61ec5-677d-4a07-b1d1-1a0d74909d11" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/maven_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootstart/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootstart/springbootstart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/demo/DemoApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springbootstart/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +26,8 @@
       <file leaf-file-name="DemoApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/demo/DemoApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="150">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -59,6 +54,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -234,12 +230,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49775112" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4467766" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24943139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24943139" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -290,8 +286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/demo/DemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        <state relative-caret-position="150">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>

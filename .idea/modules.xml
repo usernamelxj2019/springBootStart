@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/drizzlejsDemo/drizzlejsDemo.iml" filepath="$PROJECT_DIR$/drizzlejsDemo/drizzlejsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springBootStart.iml" filepath="$PROJECT_DIR$/.idea/springBootStart.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootstart/springbootstart.iml" filepath="$PROJECT_DIR$/springbootstart/springbootstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thinking/thinking.iml" filepath="$PROJECT_DIR$/thinking/thinking.iml" />
     </modules>
   </component>
 </project>

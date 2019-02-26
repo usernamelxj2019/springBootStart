@@ -24,5 +24,10 @@ public class DemoApplication {
 		System.out.println("start.....");
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("start  success .....");
+		System.out.println("start  success .....");
+		for (int i = 0; i < 8; i++) {
+		}
+
 	}
 }
+

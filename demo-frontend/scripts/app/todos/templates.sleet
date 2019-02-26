@@ -1,0 +1,4 @@
+module
+  div(data-region='main')
+view('main')
+  h1>echo(todos.title)

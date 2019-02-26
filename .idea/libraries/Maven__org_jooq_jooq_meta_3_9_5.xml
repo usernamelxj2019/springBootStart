@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.jooq:jooq-meta:3.9.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.m2/org/jooq/jooq-meta/3.9.5/jooq-meta-3.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../.m2/org/jooq/jooq-meta/3.9.5/jooq-meta-3.9.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

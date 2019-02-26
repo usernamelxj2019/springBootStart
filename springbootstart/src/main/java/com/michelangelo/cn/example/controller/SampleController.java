@@ -6,8 +6,14 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class SampleController {
+
+
+
     @RequestMapping("/")
     String home() {
+        System.out.println("into home");
+
+
         return "Hello World!";
     }
 }

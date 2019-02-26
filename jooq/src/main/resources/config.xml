@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+    <jdbc>
+        <driver>com.mysql.cj.jdbc.Driver</driver>
+        <url>jdbc:mysql://localhost:3306?useUnicode=true&amp;characterEncoding=utf8&amp;autoReconnect=true&amp;rewriteBatchedStatements=TRUE&amp;useSSL=false&amp;serverTimezone=UTC</url>
+        <user>root</user>
+        <password>root</password>
+    </jdbc>
+    <generator>
+        <strategy>
+            <name>com.code.generator.stratege.MyStratege</name>
+        </strategy>
+        <database>
+            <name>org.jooq.util.mysql.MySQLDatabase</name>
+            <includes>.*</includes>
+            <excludes/>
+            <inputSchema>world</inputSchema>
+            <forcedTypes>
+                <forcedType>
+                    <name>BOOLEAN</name>
+                    <types>(?i:TINYINT(\s*\(\d+\))?(\s*UNSIGNED)?)</types>
+                </forcedType>
+            </forcedTypes>
+        </database>
+        <target>
+            <packageName>com.study.jooq.db</packageName>
+            <directory>src/main/java</directory>
+        </target>
+        <generate>
+            <pojos>true</pojos>
+            <daos>true</daos>
+            <deprecated>false</deprecated>
+        </generate>
+    </generator>
+</configuration>
+        <!-- -&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;-->
+        <!--作者：DoNotStop-->
+        <!--来源：CSDN-->
+        <!--原文：https://blog.csdn.net/u013725455/article/details/77145698-->
+        <!--版权声明：本文为博主原创文章，转载请附上博文链接！-->

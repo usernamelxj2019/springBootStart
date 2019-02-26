@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.testng:testng:7.0.0-beta1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../.m2/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../.m2/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

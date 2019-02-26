@@ -6,7 +6,11 @@
 
     <groupId>cn.michelangelo.com</groupId>
     <artifactId>thinking</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../jooq</module>
+    </modules>
 
 
 </project>

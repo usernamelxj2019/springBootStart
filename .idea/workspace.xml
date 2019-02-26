@@ -4,34 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b61ec5-677d-4a07-b1d1-1a0d74909d11" name="Default" comment="add thinking">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/generator/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/generator/src/main/java/MyStratege.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/src/main/java/Gen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/src/main/java/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/src/main/java/com/zxy/common/base/entity/BaseEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jooq/src/main/resources/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/js/animalWorld.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/js/cat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/js/dog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/js/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/js/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/js/world.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnRequireJs/lib/animal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/drizzlejsDemo/drizzlejs" afterPath="$PROJECT_DIR$/drizzlejsDemo/drizzlejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/target/classes/com/michelangelo/cn/example/controller/SampleController.class" afterPath="$PROJECT_DIR$/springbootstart/target/classes/com/michelangelo/cn/example/controller/SampleController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/target/classes/com/michelangelo/cn/example/demo/DemoApplication.class" afterPath="$PROJECT_DIR$/springbootstart/target/classes/com/michelangelo/cn/example/demo/DemoApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/controller/SampleController.java" afterPath="$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/controller/SampleController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/demo/DemoApplication.java" afterPath="$PROJECT_DIR$/springbootstart/src/main/java/com/michelangelo/cn/example/demo/DemoApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/target/classes/application-log.properties" afterPath="$PROJECT_DIR$/springbootstart/target/classes/application-log.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/target/classes/application.properties" afterPath="$PROJECT_DIR$/springbootstart/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/target/classes/log4j2-spring.xml" afterPath="$PROJECT_DIR$/springbootstart/target/classes/log4j2-spring.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springbootstart/target/classes/logback-spring.xml" afterPath="$PROJECT_DIR$/springbootstart/target/classes/logback-spring.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thinking/pom.xml" afterPath="$PROJECT_DIR$/thinking/pom.xml" />
-    </list>
+    <list default="true" id="d5b61ec5-677d-4a07-b1d1-1a0d74909d11" name="Default" comment="add drizzlejs" />
     <ignored path="$PROJECT_DIR$/springbootstart/target/" />
     <ignored path="$PROJECT_DIR$/thinking/target/" />
     <ignored path="$PROJECT_DIR$/jooq/target/" />
@@ -215,19 +188,19 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\michelangelo\project\springBootStart\learnRequireJs\lib" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\michelangelo\project\springBootStart\learnRequireJs\js" />
+      <recent name="$PROJECT_DIR$/springbootstart/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="cn.michelangelo.com.p7" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\michelangelo\project\springBootStart\learnRequireJs\js" />
-      <recent name="$PROJECT_DIR$/springbootstart/src/main/resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\michelangelo\project\springBootStart\learnRequireJs\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -448,7 +421,7 @@
       <workItem from="1548741073490" duration="7258000" />
       <workItem from="1548898141866" duration="11000" />
       <workItem from="1548915788795" duration="183000" />
-      <workItem from="1551161014251" duration="29000" />
+      <workItem from="1551161014251" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="add https">
       <created>1533607470021</created>
@@ -464,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535937019153</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add drizzlejs">
+      <created>1551161978400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551161978400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77754000" />
+    <option name="totallyTimeSpent" value="79070000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,15 +464,16 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45229682" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20332618" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.795053" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8174323" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24827586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47356322" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47349823" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3642704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -509,7 +490,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24956971" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3862069" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="107" y="336" width="1617" height="790" />
@@ -553,7 +533,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add https" />
     <MESSAGE value="add thinking" />
-    <option name="LAST_COMMIT_MESSAGE" value="add thinking" />
+    <MESSAGE value="add drizzlejs" />
+    <option name="LAST_COMMIT_MESSAGE" value="add drizzlejs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

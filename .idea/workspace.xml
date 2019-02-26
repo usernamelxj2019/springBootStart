@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5b61ec5-677d-4a07-b1d1-1a0d74909d11" name="Default" comment="add drizzlejs" />
+    <list default="true" id="d5b61ec5-677d-4a07-b1d1-1a0d74909d11" name="Default" comment="add drizzlejs">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gitlearn/checkout-use" afterPath="$PROJECT_DIR$/gitlearn/checkout-use" />
+    </list>
     <ignored path="$PROJECT_DIR$/springbootstart/target/" />
     <ignored path="$PROJECT_DIR$/thinking/target/" />
     <ignored path="$PROJECT_DIR$/jooq/target/" />
@@ -17,7 +19,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="checkout-use" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gitlearn/checkout-use">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +130,7 @@
         <option value="$PROJECT_DIR$/jooq/src/main/java/Main6666.java" />
         <option value="$PROJECT_DIR$/jooq/src/main/java/Main66667.java" />
         <option value="$PROJECT_DIR$/springbootstart/src/test/java/com/michelangelo/cn/example/demo/TestQuick.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -421,7 +445,7 @@
       <workItem from="1548741073490" duration="7258000" />
       <workItem from="1548898141866" duration="11000" />
       <workItem from="1548915788795" duration="183000" />
-      <workItem from="1551161014251" duration="1345000" />
+      <workItem from="1551161014251" duration="2880000" />
     </task>
     <task id="LOCAL-00001" summary="add https">
       <created>1533607470021</created>
@@ -444,11 +468,32 @@
       <option name="project" value="LOCAL" />
       <updated>1551161978400</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change gitignore">
+      <created>1551166436466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551166436466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="change gitignore">
+      <created>1551166528236</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551166528236</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change gitignore">
+      <created>1551166571876</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551166571876</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79070000" />
+    <option name="totallyTimeSpent" value="80605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -470,7 +515,7 @@
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20332618" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8174323" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33568904" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24827586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47349823" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -534,7 +579,8 @@
     <MESSAGE value="add https" />
     <MESSAGE value="add thinking" />
     <MESSAGE value="add drizzlejs" />
-    <option name="LAST_COMMIT_MESSAGE" value="add drizzlejs" />
+    <MESSAGE value="change gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="change gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -546,20 +592,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/drizzlejsDemo/drizzlejs/demo/index.sleet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/drizzlejsDemo/drizzlejs/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-425">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/drizzlejsDemo/drizzlejs/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -882,6 +914,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="69" lean-forward="true" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitlearn/checkout-use">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
